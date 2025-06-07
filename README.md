@@ -29,4 +29,5 @@ Both examples increment a counter from 0 to 5, and at each step:
 │
 ├── annotated_merge.py   # Uses Annotated[] to auto-merge fields
 ├── manual_merge.py      # Explicitly updates 'sum' and 'seq' in each node
+├── basic_state.py       # file defining basic structure of stateGraph
 ├── README.md            # This file
